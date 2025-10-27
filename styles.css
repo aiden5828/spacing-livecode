@@ -1,11 +1,18 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: #fa6fff;
 }
 
 .number {
   background-color: lightblue;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 50px;
   font-weight: bold;
+  margin-top: 300px;
+  margin-bottom: 50px;
+  margin-left: 1000px;
+  border: 10px solid #00ffdd;
+  padding: 20px;
+  /* MBPC */
 }
+
